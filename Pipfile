@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+bs4 = "*"
+lxml = "*"
+pandas = "*"
+striprtf = "*"
+pywin32 = "*"
+xlwt = "*"
+progress-bar = "*"
+outlook = {editable = true,path = "C:/Max/my scripts/outlook"}
+xlrd = "*"
+
+[requires]
+python_version = "3.7"
